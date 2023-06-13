@@ -1,4 +1,4 @@
-# SimpleCore
+# SimpleCore ### In recode!
 SimpleCore is my <a href="https://essentialsx.net">Essentialsx</a>-like plugin created for **my** needs.
 
 Do **NOT** expect anything fancy form me, I'm just a junior developer.

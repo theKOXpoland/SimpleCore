@@ -1,0 +1,39 @@
+name: SimpleCore
+version: 1.0
+main: mc.theKOXpoland.SimpleCore.MainFile
+author: theKOXpoland
+api-version: "1.20"
+depend: [CommandAPI]
+
+commands:
+  spawn:
+  gamemode:
+    aliases: [gm]
+  heal:
+    aliases: [ulecz]
+  teleport:
+    aliases: [tp]
+  sun:
+    aliases: [slonecznie]
+  day:
+    aliases: [dzien]
+  night:
+    aliases: [noc]
+  tpa:
+  tpaccept:
+    aliases: [tpaa]
+  tpdeny:
+    aliases: [tpad]
+  msg:
+    aliases: [tell]
+  reply:
+    aliases: [r]
+  help:
+    aliases: [pomoc]
+  vanish:
+    aliases: [v]
+  godmode:
+    aliases: [god]
+  kickall:
+  op:
+  deop:

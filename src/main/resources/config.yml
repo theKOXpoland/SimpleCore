@@ -1,0 +1,51 @@
+################### No Permission Message ###################
+nie_masz_uprawnien:
+  '&4&l[!] - &cNie posiadasz uprawnien do tego!'
+################### Chat Status, false = chat off ###################
+chat-enabled: true
+################### Tab Refresh Time in seconds ###################
+TabRefresh: 2
+################### Max amount of pages in book ###################
+PageLimiter: 20
+################### Blocked commands ###################
+blocked_commands:
+  - '/me'
+  - '/;'
+  - '/rg'
+  - '/pl'
+  - '/chuj'
+  - '/?'
+  - '/plugins'
+  - '/minecraft:me'
+  - '/minecraft:help'
+  - '/minecraft:plugin'
+  - '/minecraft:version'
+  - '/ver'
+  - '/version'
+################### Spawn Location ###################
+spawnLocation:
+  ==: org.bukkit.Location
+  world: world
+  x: 0
+  y: 100
+  z: 0
+  pitch: 0
+  yaw: 0
+################### Help Command ###################
+help:
+  - ''
+  - ''
+  - '&a&l>> &b&lPomoc &a&l<<'
+  - ''
+  - 'Kiedyś coś tu będzie XD'
+  - ''
+  - ''
+################### Auto Messages ###################
+AutoMessages:
+  - '&7[&2&lSimpleCore&7] &7- Test1'
+  - '&7[&2&lSimpleCore&7] &7- Test2'
+  - '&7[&2&lSimpleCore&7] &7- Test3'
+################### Time is seconds between auto messages ###################
+AutoMessageSeconds: 60
+################### Time is seconds between vanish messages ###################
+VanishMessageSeconds: 0.5
